@@ -1,5 +1,6 @@
 # QtCreator theme with a contrasted scrollbar
 How to make QtCreator's scrollbar contrasted, and a drop in theme that is 'Flat Dark' with the contrasted scroll bar
+![image](https://raw.githubusercontent.com/Kidev/QtCreator-scrollbar-contrasted-theme/refs/heads/main/scrollbar-contrasted.gif)
 
 ### Edit your own preferred theme
 The only modification is setting `PreferredStyles` to `Windows` in the appropriate `.creatortheme` file. Otherwise, the color for the scrollbar is too close to its background and it's a daily annoyance. Note this modification will make QtCreator look a bit less modern in its UI
